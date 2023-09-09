@@ -12,3 +12,8 @@ More dependencies are provided in requirements.txt.
 ## To Run
 python src/main.py
 
+## Experimental Results:
+We conduct extensive experiments to demonstrate the effectiveness of our method, shown as follows:
+
+![Experimental Results](/figs/experimental results.png)
+
