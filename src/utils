@@ -27,10 +27,10 @@ def load_dataset(dataset):
     root_dir = "../data"
     if dataset == "FakeNewsNet":
         dataset_name = "FakeNewsNet/completed_data/"
-    if dataset == "ISOT":
-        dataset_name = "ISOT/completed_data/"
-    if dataset == "LIAR_PANTS":
-        dataset_name = "LIAR_PANTS/completed_data/"
+    if dataset == "AAAI":
+        dataset_name = "AAAI/completed_data/"
+    if dataset == "Liar":
+        dataset_name = "Liar/completed_data/"
     if dataset == "pan2020":
         dataset_name = "pan2020/completed_data/"
     
