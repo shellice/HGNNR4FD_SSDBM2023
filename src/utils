@@ -27,8 +27,8 @@ def load_dataset(dataset):
     root_dir = "../data"
     if dataset == "FakeNewsNet":
         dataset_name = "FakeNewsNet/completed_data/"
-    if dataset == "AAAI":
-        dataset_name = "AAAI/completed_data/"
+    if dataset == "COVID-19":
+        dataset_name = "COVID-19/completed_data/"
     if dataset == "Liar":
         dataset_name = "Liar/completed_data/"
     if dataset == "pan2020":
