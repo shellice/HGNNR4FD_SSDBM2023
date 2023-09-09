@@ -1,3 +1,4 @@
+![/figs/framework.png]
 # Heterogeneous Graph Neural Network via Knowledge Relations for Fake News Detection
 Open-sourced implementation for Heterogeneous Graph Neural Network via Knowledge Relations for Fake News Detection - HGNNR4FD.
 
