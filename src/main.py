@@ -16,7 +16,7 @@ import time
 def arg_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument('--seed', type=int, default=7, help='Random seed.')
-    parser.add_argument('--dataset', type=str, default='AAAI', help="['AAAI', 'FakeNewsNet', 'ISOT', 'LIAR_PANTS', 'pan2020')")
+    parser.add_argument('--dataset', type=str, default='AAAI', help="['COVID-19', 'FakeNewsNet', 'Liar', 'pan2020')")
     
     # GNN related parameters
     parser.add_argument('--epochs', type=int, default=200, help='Number of epochs to train.default=200,[50, 100, 150, 200, 300]')
